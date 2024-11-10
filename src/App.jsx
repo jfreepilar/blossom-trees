@@ -5,7 +5,7 @@ import SectionOne from './components/SectionOne';
 import SectionTwo from './components/SectionTwo';
 import SectionThree from './components/SectionThree';
 import SectionFour from './components/SectionFour';
-import Faq from './components/Faq';
+import FrequentlyAskedQuestions from './components/FrequentlyAskedQuestions';
 
 function App() {
 
@@ -26,7 +26,7 @@ function App() {
         <SectionTwo/>
         <SectionThree/>
         <SectionFour/>
-        <Faq/>
+        <FrequentlyAskedQuestions/>
     </>
   );
 }

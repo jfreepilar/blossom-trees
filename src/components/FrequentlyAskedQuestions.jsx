@@ -27,7 +27,7 @@ const questionsAndAnswers= [
 
 ]
 
-export default function Faq() {
+export default function FrequentlyAskedQuestions() {
   return (
     <div className='mt-[-1px] text-darkPurple py-[100px]'>
         <h2 className='font-sans font-bold text-[50px] text-center'>FREQUENTLY ASKED QUESTIONS</h2>
