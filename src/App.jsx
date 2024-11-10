@@ -5,7 +5,7 @@ import SectionOne from './components/SectionOne';
 import SectionTwo from './components/SectionTwo';
 import SectionThree from './components/SectionThree';
 import SectionFour from './components/SectionFour';
-import Faq from './components/Faq'
+import Faq from './components/Faq';
 
 function App() {
 
