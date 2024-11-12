@@ -29,7 +29,7 @@ const questionsAndAnswers= [
 
 export default function FrequentlyAskedQuestions() {
   return (
-    <div className='mt-[-1px] text-darkPurple py-[100px]'>
+    <div className='mt-[-1px] text-darkPurple py-[100px] max-xl:px-[10px]'>
         <h2 className='font-sans font-bold text-[50px] text-center'>FREQUENTLY ASKED QUESTIONS</h2>
         <div className='flex justify-center font-dhyana'> 
           <ul className='list-disc my-5 shadow-custom rounded-lg w-[1100px] px-[80px] py-[30px]'>
@@ -52,7 +52,7 @@ export default function FrequentlyAskedQuestions() {
               <p className='text-[18px]'>{item.answer}</p>
             </div>
           ))}
-        </div>
+      </div>
 
 
 
